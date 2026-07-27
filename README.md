@@ -35,7 +35,7 @@ I am keeping the motor different as I just used one as a place holder, and will 
 | Simulated apogee | 822 ft |
 | Simulated stability | 3.03 calibers |
 
-The current simulation is preliminary because several component masses are still estimates.
+The current simulation is not much developed because several component masses are still estimates.  I NEED PARTS :).
 
 ## Project Views
 
