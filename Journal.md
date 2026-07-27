@@ -29,6 +29,8 @@
 
 ### Images
 
-![OpenRocket side view](images/openrocket-side-view.png)
+![OpenRocket side view](<img width="2048" height="1280" alt="sideviewrocket" src="https://github.com/user-attachments/assets/c8a06148-6d37-4b3b-915b-6b58b46e1884" />
+)
 
-![OpenRocket 3D view](images/openrocket-3d-view.png)
+![OpenRocket 3D view](<img width="2048" height="1280" alt="3d_render" src="https://github.com/user-attachments/assets/ab5542d9-4892-49a1-899e-12b1a2e386cf" />
+)
