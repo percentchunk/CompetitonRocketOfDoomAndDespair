@@ -1,26 +1,22 @@
-Section,Qty. Ordered,Item,Quantity Received,Item Total,Tax,Shipping,Total
-LOC Precision,1,LOC 2.56-inch airframe tube,1 tube,$10.27,,,
-LOC Precision,2,LOC 1.52-inch airframe/MMT tubes,2 tubes,$18.60,,,
-LOC Precision,1,LOC 2.56-inch plastic nose cone,1 nose cone,$19.03,,,
-LOC Precision,2,LOC 2.56-inch tube couplers,2 couplers,$8.02,,,
-LOC Precision,2,LOC 1.52-inch tube couplers,2 couplers,$4.96,,,
-LOC Precision,1,LOC 29 mm motor retainer,1 retainer,$5.50,,,
-LOC Precision,1,"1/8-inch tubular Kevlar shock cord, 12 ft",12 ft,$15.34,,,
-LOC Precision,1,6 × 6-inch flame-resistant blanket,1 blanket,$7.02,,,
-LOC Precision — Summary,,Item subtotal,,$88.74,,,
-LOC Precision — Summary,,UPS Ground shipping,,,, $19.07,
-LOC Precision — Summary,,Total including shipping,,,,,$107.81
-Apogee Components,1,Vertical Dual Egg Protector for BT-80,1 dual-egg cradle,$11.25,,,
-Apogee Components,1 pack,Swept Clipped Delta TTW plywood fins,3 fins,$11.12,,,
-Apogee Components,1 pack,Standard 1010 rail buttons,2 rail buttons,$5.58,,,
-Apogee Components,1,1/8-inch quick link,1 quick link,$5.08,,,
-Apogee Components — Summary,,Item subtotal,,$33.03,,,
-Apogee Components — Summary,,Sales tax,,,$1.98,,
-Apogee Components — Summary,,USPS Ground Advantage shipping,,,, $9.61,
-Apogee Components — Summary,,Total including shipping and tax,,,,,$44.62
-Cost Summary,,LOC Precision,,$88.74,$0.00,$19.07,$107.81
-Cost Summary,,Apogee Components,,$33.03,$1.98,$9.61,$44.62
-Grand Total,,Total item cost before tax and shipping,,$121.77,,,
-Grand Total,,Total sales tax,,,$1.98,,
-Grand Total,,Total shipping,,,,$28.68,
-Grand Total,,Final project total,,,,,$152.43
+Part,Quantity,Price (USD),Product Link
+LOC 2.56-inch airframe tube,1 tube,10.27,https://locprecision.com/products/cardboard-airframes
+LOC 1.52-inch airframe/MMT tubing,2 tubes,18.60,https://locprecision.com/products/cardboard-airframes
+LOC 2.56-inch plastic nose cone,1,19.03,https://locprecision.com/products/nose-cones
+LOC 2.56-inch tube coupler,2 couplers,8.02,https://locprecision.com/products/tube-coupler
+LOC 1.52-inch tube coupler,2 couplers,4.96,https://locprecision.com/products/tube-coupler
+LOC 29 mm motor retainer,1,5.50,https://locprecision.com/products/3d-motor-retainers
+1/8-inch tubular Kevlar shock cord,12 ft,15.34,https://locprecision.com/collections/recovery
+6 x 6-inch flame-resistant blanket,1,7.02,https://locprecision.com/collections/recovery
+LOC Precision shipping,UPS Ground,19.07,
+LOC Precision total,Including shipping,107.81,
+Vertical Dual Egg Protector for BT-80,1,11.25,https://www.apogeerockets.com/Building_Supplies/Payload_Protection/Vertical_Dual_Egg_Protector_BT-80
+Swept Clipped Delta TTW plywood fins,1 pack / 3 fins,11.12,https://www.apogeerockets.com/Building-Supplies/Rocket-Fins/Swept-Clipped-Delta-Plywood-Fins-with-TTW-Tab
+Standard 1010 rail buttons,1 pack / 2 buttons,5.58,https://www.apogeerockets.com/Building_Supplies/Rail_Buttons/1in_1010_Rail_Button_Standard
+1/8-inch quick link,1,5.08,https://www.apogeerockets.com/Building_Supplies/Recovery_Equipment
+Apogee sales tax,1,1.98,
+Apogee shipping,USPS Ground Advantage,9.61,
+Apogee total,Including tax and shipping,44.62,
+Total parts before tax and shipping,,121.77,
+Total sales tax,,1.98,
+Total shipping,,28.68,
+Final project total,,152.43,
