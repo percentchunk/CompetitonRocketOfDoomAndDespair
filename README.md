@@ -1,12 +1,14 @@
 # CompetitonRocketOfDoomAndDespair
 
-This project is a competition rocket for the 2027 American Rocketry Challenge. It is designed to carry two eggs, use two different body-tube diameters, reach about 800 feet, and stay under the 650 g liftoff limit.
+This project is a competition rocket for the 2027 American Rocketry Challenge. It is designed to carry two eggs, use two different body tube diameters, reach about 800 feet, and stay under the 650 g liftoff limit.
 
 ## Overview
 
 The rocket uses a larger LOC upper airframe for the payload and a smaller LOC lower airframe for the booster. A transition connects the two sections.
 
-Unlike projects that are mostly CAD-based, this rocket will be developed mainly through **physical building, weighing, testing, and flight tuning**. OpenRocket is being used as a starting point, but the final design will depend on the real mass, fit, balance, and performance of the finished parts.
+Unlike projects that are mostly CAD based, this rocket will be developed mainly through **physical building, weighing, testing, and flight tuning**. OpenRocket is being used as a starting point, but the final design will depend on the real mass, fit, balance, and performance of the finished parts. Im consideiring giving it a paint job but it needs to be my team colors.
+
+I am keeping the motor different as I just used one as a place holder, and will update the readme once I get my parts.
 
 ## Main Features
 
