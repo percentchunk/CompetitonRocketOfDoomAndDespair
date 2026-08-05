@@ -50,4 +50,3 @@
 - Mass with motor: 525 g
 - Stability: 2.19 calibers
 - Simulated apogee: 800 ft
-- 
