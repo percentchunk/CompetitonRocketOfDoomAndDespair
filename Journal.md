@@ -34,3 +34,19 @@
 
 ![OpenRocket 3D view](<img width="2048" height="1280" alt="3d_render" src="https://github.com/user-attachments/assets/ab5542d9-4892-49a1-899e-12b1a2e386cf" />
 )
+
+### Update -0.5 hours
+
+- Switched motor to F41W for simulation
+- updated with estimated mass components
+- Still need actual parts to get true weight
+- Figure out if I will buy my own expoy(prob will)
+
+### Current Results
+
+- Length: 41.406 in
+- Mass without motor: 464g
+- Mass with motor: 525 g
+- Stability: 2.19 calibers
+- Simulated apogee: 800 ft
+- 
