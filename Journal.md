@@ -41,6 +41,7 @@
 - updated with estimated mass components
 - Still need actual parts to get true weight
 - Figure out if I will buy my own expoy(prob will)
+- also need to figure out transition prob be 3d printed :)
 
 ### Current Results
 
